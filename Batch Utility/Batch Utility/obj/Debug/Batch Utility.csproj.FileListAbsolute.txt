@@ -1,0 +1,220 @@
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\API Test App.exe.config
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\API Test App.exe
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\API Test App.pdb
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\Aegis.Utilities.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\FactoryLogix.xTend.API.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\FactoryLogix.xTend.DataObjects.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\FactoryLogix.xTend.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Xpf.Grid.v15.2.Core.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Xpf.Core.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Mvvm.v15.2.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Xpf.Grid.v15.2.Core.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Xpf.Core.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Mvvm.v15.2.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\Batch Utility.csprojAssemblyReference.cache
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\Batch_Utility.Form1.resources
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\API_Test_App.Properties.Resources.resources
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\Batch Utility.csproj.GenerateResource.cache
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\API Test App.exe.licenses
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\Batch Utility.csproj.CoreCompileInputs.cache
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\Batch Utility.csproj.CopyComplete
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\API Test App.exe
+C:\Users\cwagner\source\repos\API Test App\API Test App\obj\Debug\API Test App.pdb
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\API Test App.exe.config
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\API Test App.exe
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\API Test App.pdb
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\Aegis.Utilities.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\FactoryLogix.xTend.API.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\FactoryLogix.xTend.DataObjects.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\FactoryLogix.xTend.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Xpf.Grid.v15.2.Core.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Xpf.Core.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Mvvm.v15.2.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Xpf.Grid.v15.2.Core.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Xpf.Core.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Mvvm.v15.2.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.Xpf.Grid.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.Xpf.Core.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\Batch Utility.csprojAssemblyReference.cache
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\Batch_Utility.Form1.resources
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\API_Test_App.Properties.Resources.resources
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\Batch Utility.csproj.GenerateResource.cache
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\API Test App.exe.licenses
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\Batch Utility.csproj.CoreCompileInputs.cache
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\Batch Utility.csproj.CopyComplete
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\API Test App.exe
+C:\Users\cwagner\source\repos\Batch Utility\Batch Utility\obj\Debug\API Test App.pdb
